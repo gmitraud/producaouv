@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2023-05-02
+  modelos: MyString
+  machines: MyString
+  notes: MyText
+
+two:
+  date: 2023-05-02
+  modelos: MyString
+  machines: MyString
+  notes: MyText
